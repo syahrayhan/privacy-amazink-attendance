@@ -46,19 +46,9 @@ While using our Service, we may ask you to provide us with certain personally id
 
 0.3. Phone number
 
-0.4. Address, Country, State, Province, ZIP/Postal code, City
-
-0.5. Cookies and Usage Data
+0.4. Photos data collection and usage
 
 We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link.
-
-Usage Data
-
-We may also collect information that your browser sends whenever you visit our Service or when you access Service by or through any device (“Usage Data”).
-
-This Usage Data may include information such as your computer’s Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
-
-When you access Service with a device, this Usage Data may include information such as the type of device you use, your device unique ID, the IP address of your device, your device operating system, the type of Internet browser you use, unique device identifiers and other diagnostic data.
 
 Location Data
 
@@ -66,23 +56,9 @@ We may use and store information about your location if you give us permission t
 
 You can enable or disable location services when you use our Service at any time by way of your device settings.
 
-Tracking Cookies Data
+Photos Data Collection and Usage:
 
-We use cookies and similar tracking technologies to track the activity on our Service and we hold certain information.
-
-Cookies are files with a small amount of data which may include an anonymous unique identifier. Cookies are sent to your browser from a website and stored on your device. Other tracking technologies are also used such as beacons, tags and scripts to collect and track information and to improve and analyze our Service.
-
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may not be able to use some portions of our Service.
-
-Examples of Cookies we use:
-
-0.1. Session Cookies: We use Session Cookies to operate our Service.
-
-0.2. Preference Cookies: We use Preference Cookies to remember your preferences and various settings.
-
-0.3. Security Cookies: We use Security Cookies for security purposes.
-
-0.4. Advertising Cookies: Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+In this section of our privacy policy, we explicitly outline how we collect and utilize facial data within our application. We clarify that facial data is only collected for specific purposes related to work-from-home attendance verification and profile photo updates. Furthermore, we emphasize that the collected facial data is not used for facial recognition or detection purposes. We also assure users that facial data is stored securely on our company's servers and is not shared with any third parties.
 
 Other Data
 
