@@ -46,7 +46,7 @@ While using our Service, we may ask you to provide us with certain personally id
 
 0.3. Phone number
 
-0.4. Photos data collection and usage
+0.4. Photos and data handling
 
 We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link.
 
@@ -56,9 +56,9 @@ We may use and store information about your location if you give us permission t
 
 You can enable or disable location services when you use our Service at any time by way of your device settings.
 
-Photos Data Collection and Usage:
+Data Handling:
 
-In this section of our privacy policy, we explicitly outline how we collect and utilize facial data within our application. We clarify that facial data is only collected for specific purposes related to work-from-home attendance verification and profile photo updates. Furthermore, we emphasize that the collected facial data is not used for facial recognition or detection purposes. We also assure users that facial data is stored securely on our company's servers and is not shared with any third parties.
+In this section of our privacy policy, we make it clear that we do not identify facial data. The photos collected do not necessarily need to contain facial data; instead, they may depict activities related to working from home. We emphasize that these photos are solely used for work-from-home attendance verification and profile photo updates. Furthermore, we assure users that any photo data collected is securely stored on our company's servers and is not shared with any third parties.
 
 Other Data
 
@@ -153,25 +153,19 @@ We may use third-party Service Providers to automate the development process of 
 
 We may use remarketing services to advertise on third party websites to you after you visited our Service. We and our third-party vendors use cookies to inform, optimise and serve ads based on your past visits to our Service.
 
-13. Payments
-
-We may provide paid products and/or services within Service. In that case, we use third-party services for payment processing (e.g. payment processors).
-
-We will not store or collect your payment card details. That information is provided directly to our third-party payment processors whose use of your personal information is governed by their Privacy Policy. These payment processors adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, Mastercard, American Express and Discover. PCI-DSS requirements help ensure the secure handling of payment information.
-
-14. Links to Other Sites
+13. Links to Other Sites
 
 Our Service may contain links to other sites that are not operated by us. If you click a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit.
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-15. Children’s Privacy
+14. Children’s Privacy
 
 Our Services are not intended for use by children under the age of 18 (“Child” or “Children”).
 
 We do not knowingly collect personally identifiable information from Children under 18. If you become aware that a Child has provided us with Personal Data, please contact us. If we become aware that we have collected Personal Data from Children without verification of parental consent, we take steps to remove that information from our servers.
 
-16. Changes to This Privacy Policy
+15. Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
@@ -179,6 +173,6 @@ We will let you know via email and/or a prominent notice on our Service, prior t
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-17. Contact Us
+16. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us by email: wahanasistemindonesia@gmail.com. website : https://www.amazinkprint.com
